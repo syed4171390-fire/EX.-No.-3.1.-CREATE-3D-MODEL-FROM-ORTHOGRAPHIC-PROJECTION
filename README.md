@@ -33,7 +33,7 @@ To create a 3D model from given orthographic projection.
 
 ![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
 
-8.	After finishing the model convert to drawing sheet per  ISO standard.
+8.	After finishing the model convert to https://increased-indigo-sztlu90tqc.edgeone.app/Screenshot%202026-03-14%20133050.pngdrawing sheet per  ISO standard.
 
 ![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
 
@@ -41,7 +41,6 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
-![image](https://unique-salmon-y6aonwyplv.edgeone.app/Screenshot%202026-03-13%20183609.png)
-
+![image](https://increased-indigo-sztlu90tqc.edgeone.app/Screenshot%202026-03-14%20133050.png)
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
